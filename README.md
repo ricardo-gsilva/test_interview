@@ -1,6 +1,6 @@
 # test_interview
 
-A new Flutter project.
+Projeto para carregamento de lista de postangens e comentários, utilizando Modular e Bloc.
 
 ## Getting Started
 
