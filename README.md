@@ -1,5 +1,4 @@
 # test_interview
-
 Projeto para carregamento de lista de postangens e comentários, utilizando Modular e Bloc.
 
 ## Getting Started
